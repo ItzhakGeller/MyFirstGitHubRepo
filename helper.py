@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-this is the helper script that contains useful function to use for datascience
+this is a helper script that contains useful function to use for data science
 """
 
 def extract_zip_file(FileName):
